@@ -1,0 +1,42 @@
+/******************************************************************
+
+Theme Name: Januas
+Theme URI: http://showthemes.com/januas-demo/changelog
+Description:
+
+Version: 1.36
+
+Author: Showthemes
+
+Author URI: http://www.showthemes.com
+
+
+
+Stylesheet: Main Stylesheet
+
+******************************************************************/
+
+
+input[type="submit"] {
+  -webkit-appearance:button;
+  cursor:pointer;
+  width:400px;
+}
+
+.featured-slider-item {
+background-color: #967BB6 !important;
+background-image: url("http://www.onceuponatime.events/wp-content/uploads/2015/11/featured-background4.png");
+}
+
+.orange #top_event {
+background: url("http://www.onceuponatime.events/wp-content/uploads/2015/11/event-page-background4.png") #967BB6 no-repeat !important;
+}
+
+
+
+#info-main-event a:hover {
+  color:#393939 !important;
+
+.orange a { color: #000000 !important; }
+
+.orange a:hover, .orange a:visited:hover, .orange a:focus, .orange a:visited:focus { color: #000000 !important; }
