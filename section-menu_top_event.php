@@ -67,6 +67,7 @@
             <?php } ?>
 
                 <li><a href="#"><?php _e('Vendor Registration', 'januas'); ?></a></li>
+                <li><a href="#"><?php _e('Media', 'januas'); ?></a></li>
 
             <?php if (get_post_meta($post->ID, 'januas_registration_visible', true) == 'y' && get_post_meta($post->ID, 'januas_registration_showinmenu', true) == 'y') { ?>
 

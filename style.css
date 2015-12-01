@@ -35,8 +35,66 @@ background: url("http://www.onceuponatime.events/wp-content/uploads/2015/11/even
 
 
 #info-main-event a:hover {
-  color:#393939 !important;
+  color:#393939 !important; }
+.home #slider #info-main-event h2{ font-size: 2.5em !important;}
 
-.orange a { color: #000000 !important; }
 
-.orange a:hover, .orange a:visited:hover, .orange a:focus, .orange a:visited:focus { color: #000000 !important; }
+
+.orange a:hover, .orange a:visited:hover, .orange a:focus, .orange a:visited:focus { color: #967BB6; }
+
+.bx-viewport {
+background-image: url("http://www.onceuponatime.dev/wp-content/uploads/2015/11/top-x.png");
+}
+
+.home .event_image {max-width:100% !important;}
+
+.byline {padding-right:20px !important;}
+
+.more {
+background: #9f8fce; /* Old browsers */
+background: -moz-linear-gradient(top,  #9f8fce 0%, #9482cc 47%, #7c61cc 100%) !important; /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #9f8fce 0%,#9482cc 47%,#7c61cc 100%) !important; /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #9f8fce 0%,#9482cc 47%,#7c61cc 100%) !important; /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#9f8fce', endColorstr='#7c61cc',GradientType=0 ) !important; /* IE6-9 */
+}
+
+.entry-content img.alignleft {
+  padding-bottom:20px;
+  padding-right:20px;
+}
+
+.orange #sidebar1 h3.widget-title {
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#9f8fce+0,9482cc+47,7c61cc+100 */
+background: #9f8fce; /* Old browsers */
+background: -moz-linear-gradient(top,  #9f8fce 0%, #9482cc 47%, #7c61cc 100%) !important; /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #9f8fce 0%,#9482cc 47%,#7c61cc 100%) !important; /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #9f8fce 0%,#9482cc 47%,#7c61cc 100%) !important; /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#9f8fce', endColorstr='#7c61cc',GradientType=0 ) !important; /* IE6-9 */
+
+}
+.orange .event_element h4 {
+background: #9f8fce; /* Old browsers */
+background: -moz-linear-gradient(top,  #9f8fce 0%, #9482cc 47%, #7c61cc 100%) !important; /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #9f8fce 0%,#9482cc 47%,#7c61cc 100%) !important; /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #9f8fce 0%,#9482cc 47%,#7c61cc 100%) !important; /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#9f8fce', endColorstr='#7c61cc',GradientType=0 ) !important; /* IE6-9 */
+
+}
+
+.orange #menu_top_event .button_go {
+background: #9f8fce; /* Old browsers */
+background: -moz-linear-gradient(top,  #9f8fce 0%, #9482cc 47%, #7c61cc 100%) !important; /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #9f8fce 0%,#9482cc 47%,#7c61cc 100%) !important; /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #9f8fce 0%,#9482cc 47%,#7c61cc 100%) !important; /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#9f8fce', endColorstr='#7c61cc',GradientType=0 ) !important; /* IE6-9 */
+}
+
+.orange #slider #sub-info-main-event div.informazioni.register h4 {
+background: #9f8fce; /* Old browsers */
+background: -moz-linear-gradient(top,  #9f8fce 0%, #9482cc 47%, #7c61cc 100%) !important; /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #9f8fce 0%,#9482cc 47%,#7c61cc 100%) !important; /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #9f8fce 0%,#9482cc 47%,#7c61cc 100%) !important; /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#9f8fce', endColorstr='#7c61cc',GradientType=0 ) !important; /* IE6-9 */
+}
+
+
