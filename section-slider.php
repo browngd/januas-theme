@@ -46,7 +46,7 @@ $featured_query = new WP_Query($args);
                                     the_post_thumbnail('januas-large', array('class' => 'img_slider'))
                                     ?>
 
-                                <img src="<?php echo get_stylesheet_directory_uri(); ?>/lib/images/featured<?php echo $theme_color; ?>.png" class="featured_ribbon" alt="Featured" />
+                               
 
                             </a>
 
